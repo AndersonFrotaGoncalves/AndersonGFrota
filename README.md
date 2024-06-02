@@ -2,7 +2,7 @@
 
 
 
-<p align="center"> Olá, me chamo Anderson,
+<p align="center"> Olá, me chamo Anderson
 
 Sou uma pessoa muito determinada e disposta a novos desafios profissionais e pessoais, tenho espírito de liderança e sempre pronto para desenvolver soluções eficientes e eficazes, tenho muita facilidade em aprender e ser autodidata, estou sempre disposto a sair da zona de conforto, Gosto de equilibrar minha carreira entre competências técnicas e gerenciais.</p>&nbsp;
 
