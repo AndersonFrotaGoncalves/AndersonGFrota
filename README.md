@@ -6,7 +6,7 @@
 
 Olá, me chamo Anderson
 
-Sou extremamente determinado e disposto a novos desafios profissionais e pessoais. Tenho um espírito de liderança e estou sempre disposto a desenvolver soluções eficientes e eficazes. Tenho facilidade em aprender e ser autodidata, estando disposto a romper com a zona de conforto. Gosto de equilibrar minha carreira entre competências técnicas e gerenciais.</p>&nbsp;
+Sou extremamente determinado e disposto a novos desafios profissionais e pessoais. Tenho um espírito de liderança e estou sempre disposto a desenvolver soluções eficientes e eficazes. Tenho facilidade em aprender e ser autodidata, estando disposto a romper com a zona de conforto. </p>&nbsp;
 
 
 
