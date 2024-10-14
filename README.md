@@ -4,9 +4,10 @@
 
 <p align="center"> Olá, me chamo Anderson
 
-Olá, me chamo Anderson
-
-Sou extremamente determinado e disposto a novos desafios profissionais e pessoais. Tenho um espírito de liderança e estou sempre disposto a desenvolver soluções eficientes e eficazes. Tenho facilidade em aprender e ser autodidata, estando disposto a romper com a zona de conforto. </p>&nbsp;
+Sou um profissional em fase de transição de carreira apaixonado por programação. Sempre me interessei pela transformação que a tecnologia proporciona ao mundo e decidi buscar uma nova oportunidade na área para me desafiar e contribuir para soluções inovadoras.
+Ao longo da minha carreira em [logística], desenvolvi capacidades sólidas em resolver problemas, analisar dados e trabalhar em grupo. Estas habilidades são altamente transferíveis para a área da programação, onde posso aplicar minha capacidade de resolver problemas complexos e trabalhar em projetos colaborativos.
+Participei de cursos de programação e tenho aprimorado minhas habilidades em linguagens como HTML e JavaScript. Também tenho procurado por projetos concretos para colocar em prática o que aprendi e melhorar minhas competências técnicas.
+Para além dos estudos, tenho me empenhado em projetos pessoais de criação de aplicativos, além de oferecer meu tempo como voluntário em entidades que procuram soluções tecnológicas para questões sociais. </p>&nbsp;
 
 
 
