@@ -35,6 +35,42 @@ Estou em busca da minha **primeira oportunidade profissional como Desenvolvedor 
 
 ---
 
-**Entre em contato comigo:**
+# Hello, I'm Anderson Frota Gonçalves! 👋
 
+I'm a **Junior Front-end Developer**, currently enrolled in a **Web Development professional program** at Master D – Portugal.
+
+I started my career in the logistics field, where I developed strong skills in problem-solving, data analysis, and teamwork. Today, I apply these skills in the creation of responsive and user-friendly web interfaces using modern technologies.
+
+## 🚀 Technologies I work with:
+
+- **HTML5 | CSS3 | JavaScript**
+- ReactJS (learning in progress)
+- Git & GitHub
+- Styled-Components
+- REST APIs
+- Figma, Canva (for UI prototyping and visuals)
+- VS Code
+
+## 📚 Currently studying:
+
+- Advanced JavaScript
+- Applied logic and DOM manipulation
+- API integration
+- Git/GitHub best practices
+- Intro to back-end with Node.js
+
+## 🧩 Highlight Projects:
+
+- **[Dom Barberss – Landing page for a barbershop](https://dombarberss.netlify.app/)**
+- **[Guilherme Costa Photography – Personal portfolio site](https://guilhermecostafotogrgafia.netlify.app/)**
+
+You can find other personal and study projects in my repositories here on GitHub.
+
+## 🎯 Goal:
+
+I'm currently looking for my **first professional opportunity as a Junior Front-end Developer**, with a strong focus on continuous learning, teamwork, and real-world problem solving.
+
+---
+
+**Let’s connect!**  
 [LinkedIn](https://www.linkedin.com/in/andersongfrota) | andersonfrota@outlook.pt
