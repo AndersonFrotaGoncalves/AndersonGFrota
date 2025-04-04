@@ -1,3 +1,10 @@
+[![GitHub](https://img.shields.io/badge/GitHub-AndersonGFrota-181717?style=flat&logo=github)](https://github.com/AndersonGFrota)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andersongfrota)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Em desenvolvimento-yellow?style=flat)](#)
+[![Email](https://img.shields.io/badge/Email-andersonfrota@outlook.pt-red?style=flat&logo=gmail)](mailto:andersonfrota@outlook.pt)
+
+
+
 # Olá, eu sou o Anderson Frota Gonçalves! 👋
 
 Sou um **Desenvolvedor Front-end Júnior**, atualmente em formação profissional em **Web Development** pela instituição Master D – Portugal.
