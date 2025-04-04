@@ -16,6 +16,13 @@ Minha trajetória começou na área de logística, onde desenvolvi habilidades c
 - VS Code
 
 ## 📚 Atualmente estudando:
+
+- JavaScript Avançado
+- Lógica de programação aplicada
+- Integração com APIs
+- Boas práticas com Git/GitHub
+- Introdução ao back-end com Node.js
+
 ## 🛠️ Ferramentas e Tecnologias
 
 <div style="display: inline_block"><br/>
@@ -26,11 +33,6 @@ Minha trajetória começou na área de logística, onde desenvolvi habilidades c
   <img align="center" alt="Node.js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-- JavaScript Avançado
-- Lógica de programação aplicada
-- Integração com APIs
-- Boas práticas com Git/GitHub
-- Introdução ao back-end com Node.js
 
 ## 🧩 Projetos em destaque:
 
